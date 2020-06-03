@@ -1,2 +1,2 @@
-# responsive_web_exercise
-A exercise from a Coursera course.
+# Course
+The repository for the exercises of the course.
