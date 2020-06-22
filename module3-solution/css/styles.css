@@ -1,0 +1,36 @@
+#nav-list a:hover {
+    background: #E7E7E7;
+  }
+  .navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+  }
+#navbar-brand {
+    position: absolute;
+    float: left;
+    margin: -35 0 0 0 0;
+}
+
+#nav-list li a{
+    text-align: center;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+  }
+#main-content h2 {
+    text-align: center;
+}
+
+.col-xs-12 {
+    background-color: #999999;
+    border-color: #222222;
+    border: 1px;
+    margin: 15px 15px 15px 15px;
+}
+.col-xs-12 h3 {
+    text-align: center;
+}
